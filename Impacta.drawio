@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T22:13:36.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="fGdJ_QucE5LehuJXQZTp" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T01:55:15.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="IrO3cGdW6AIcYa4fIaxa" version="22.0.8" type="github">
   <diagram name="Página-1" id="5YH8Po29v99QCNVrzPGC">
-    <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="563" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,6 +133,24 @@
         </mxCell>
         <mxCell id="cazhu-MIkGUrAeKI-p6a-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cazhu-MIkGUrAeKI-p6a-44" target="cazhu-MIkGUrAeKI-p6a-109">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cazhu-MIkGUrAeKI-p6a-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="cazhu-MIkGUrAeKI-p6a-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="470" y="150" />
+              <mxPoint x="470" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cazhu-MIkGUrAeKI-p6a-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="cazhu-MIkGUrAeKI-p6a-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="519.5" y="190" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="470" y="190" />
+              <mxPoint x="470" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
